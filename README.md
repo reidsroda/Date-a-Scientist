@@ -1,4 +1,4 @@
-# MatchMe is a matchmaking algorithm for users to find their soulmate!
+# MatchMe is a reccomendation algorithm for users to find their soulmate!
 
 ### Files
 
